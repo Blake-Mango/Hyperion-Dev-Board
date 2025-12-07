@@ -1,0 +1,55 @@
+name,Type,footprint,Quantity,Quantity,Supplier,cost,Link
+Capacitors,0.1uF,C_0402_1005Metric,"CL05B104KO5NNNCC1525
+
+100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",11,JLCPCB,$0.04,
+Capacitors,1uF,C_0402_1005Metric,"CL05A105KA5NQNCC52923
+
+1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",2,JLCPCB,$0.06,
+Capacitors,10uF,C_0603_1608Metric,"CL10A106KP8NNNCC19702
+
+10V 10uF X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",2,JLCPCB,$0.11,
+Capacitors,33pF,C_0402_1005Metric,"0402CG330J500NTC1562
+
+33pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",2,JLCPCB,$0.02,
+led,SK6812MINI,LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,"SK6812MINI-EC5149201
+
+-40℃~+85℃ 0.6mA 1.78mm 120° 1kHz 2.8mm 2000V 3.2mm 3.7V~5.5V 800Kbit/s G:815mcd~1275mcd R:620nm~625nm Semi-transparent lens SMD RGB LEDs(Built-in IC) ROHS",1,JLCPCB,$0.41,
+usbc,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,"TYPE-C-31-M-12C165948
+
+1 16P 5A Female Type-C SMD USB Connectors ROHS",1,JLCPCB,$0.34,
+resistors,5.1k,R_0402_1005Metric,"0402WGF5101TCEC25905
+
+-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS",20,JLCPCB,$0.01,
+"R3,R4",27,R_0402_1005Metric,"0402WGF270JTCEC25100
+
+-55℃~+155℃ 27Ω 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS",20,JLCPCB,$0.01,
+"R6,R5",1K,R_0402_1005Metric,"0402WGF1001TCEC11702
+
+-55℃~+155℃ 1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS",20,JLCPCB,$0.01,
+R7,10K,R_0402_1005Metric,"0402WGF1002TCEC25744
+
+-55℃~+155℃ 10kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS",20,JLCPCB,$0.01,
+Button,SW_Push,SW_Push_SPST_NO_Alps_SKRK,"TS-1088-AR02016C720477
+
+-30℃~+80℃ 1.6N 100,000 Cycles 12V 2mm 3mm 4mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS",6,JLCPCB,$0.26,
+microproscesors,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,"RP2040C2040
+
+12bit 133MHz 30 LQFN-56(7x7) Microcontrollers (MCU/MPU/SOC) ROHS",2,JLCPCB,$1.83,
+Flash memory,W25Q16JVZPIQTR,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,"W25Q16JVUXIQC2843335
+
+-40℃~+85℃ 100,000 Cycles 10uA 133MHz 16Mbit 2.7V~3.6V 20 Years 3ms SPI USON-8-EP(2x3) NOR FLASH ROHS",2,JLCPCB,$1.17,
+LDO,MCP1700x-330xxTT,SOT-23,"MCP1700T-3302E/TTC39051
+
+-40℃~+125℃@(Tj) 1 1.6uA 178mV@(250mA) 250mA 3.3V 44dB@(100Hz) 6V Fixed Over Temperature Protection Positive SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",5,JLCPCB,$1.97,
+Crystal,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,"X322512MSB4SIC9002
+
+-40℃~+85℃ 12MHz 20pF Crystal Oscillator ±10ppm ±20ppm SMD3225-4P Crystals ROHS",6,JLCPCB,$0.39,
+Header Pins,Conn_01x20,PinHeader_1x20_P2.54mm_Vertical,"2.54-1*20P直针C50981
+
+-40℃~+105℃ 1 1x20P 2.54mm 20P 3A Black Brass Pin Header Through Hole Plugin,P=2.54mm Pin Headers ROHS",2,Ali Express,$5.44,https://www.aliexpress.us/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.32bb2ed8XUmFtF
+Header Pins,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,"1.27-1*3P针C24980
+
+-55℃~+105℃ 1 1.27mm 1mm 1x3P 2.3mm 3A 3P 3mm Black Brass Pin Header Through Hole Plugin,P=1.27mm Pin Headers ROHS",1," 
+ 	
+Ali Express
+",Comes with above,https://www.aliexpress.us/p/shoppingcart/index.html?spm=a2g0o.detail.0.0.32bb2ed8XUmFtF

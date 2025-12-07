@@ -16,6 +16,12 @@ s a simple dev board that I made for Hack Club Blueprint. It has everything that
 # schematic
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/a265dbae-f730-4497-a149-60fd5e9dbb2e" />
 
+# PCB Layout
+### Front:
+<img width="846" height="357" alt="Screenshot 2025-12-07 113229" src="https://github.com/user-attachments/assets/ec3bb214-7c32-4ab3-bd43-af5acc2dae8b" />
+
+### Back:
+<img width="850" height="364" alt="Screenshot 2025-12-07 113249" src="https://github.com/user-attachments/assets/1cf70a8b-e8de-4e97-bdd8-667ff7c32f70" />
 
 # Heres what it looks like produced
 

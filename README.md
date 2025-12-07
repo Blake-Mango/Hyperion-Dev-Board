@@ -13,7 +13,11 @@ s a simple dev board that I made for Hack Club Blueprint. It has everything that
 7. also on this board is an led to make it easy to check if the board is powered on od if there any any problems also to help debug or even program
 8. and finaly a button to enter into BOOTSEL mode so you can program you board.
 
-# Heres what it looks like
+# schematic
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/a265dbae-f730-4497-a149-60fd5e9dbb2e" />
+
+
+# Heres what it looks like produced
 
 <img width="377" height="687" alt="image" src="https://github.com/user-attachments/assets/d88d957f-f85c-48f3-b231-ec421aea19b4" />
 <img width="372" height="687" alt="Screenshot 2025-12-06 012422" src="https://github.com/user-attachments/assets/7e6df2f6-938e-4120-ad3e-2ce925e79e2f" />

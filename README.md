@@ -23,7 +23,12 @@ s a simple dev board that I made for Hack Club Blueprint. It has everything that
 ### Back:
 <img width="850" height="364" alt="Screenshot 2025-12-07 113249" src="https://github.com/user-attachments/assets/1cf70a8b-e8de-4e97-bdd8-667ff7c32f70" />
 
-# Heres what it looks like produced
+# Heres what it looks like when made
+![top side dev](https://github.com/user-attachments/assets/2e0784a1-dec9-46b1-93c6-085d8b467fae)
+![Bottom side dev](https://github.com/user-attachments/assets/438b3a9a-f014-4e25-9780-d13a18eeecd2)
 
-<img width="377" height="687" alt="image" src="https://github.com/user-attachments/assets/d88d957f-f85c-48f3-b231-ec421aea19b4" />
-<img width="372" height="687" alt="Screenshot 2025-12-06 012422" src="https://github.com/user-attachments/assets/7e6df2f6-938e-4120-ad3e-2ce925e79e2f" />
+# Demo
+here is a short code that was made to just rotate the color of the onboard neopixel led
+https://github.com/user-attachments/assets/beb6644e-a9f9-4d21-ad0d-ccec5cd91aba
+
+

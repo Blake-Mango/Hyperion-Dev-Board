@@ -29,6 +29,7 @@ s a simple dev board that I made for Hack Club Blueprint. It has everything that
 
 # Demo
 here is a short code that was made to just rotate the color of the onboard neopixel led
+
 https://github.com/user-attachments/assets/beb6644e-a9f9-4d21-ad0d-ccec5cd91aba
 
 
